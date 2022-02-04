@@ -1,0 +1,50 @@
+.head {
+    font: normal normal 900 35px Avenir;
+    color: #000000;
+    text-align: right;
+    padding-top: 60px;
+    padding-right: 124px;
+}
+
+.title-login {
+    font: normal normal normal 30px Muli;
+    color: #707070;
+    padding-top: 43px;
+}
+
+.recover-login{
+    text-align: right;
+    font: normal normal normal 14px Muli;
+    color: #707070;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    cursor: pointer;
+}
+
+.btn-sign-in{
+    background: #707070 !important;
+    border-radius: 100px !important;
+    width: 149px !important;
+    height: 43px !important;
+}
+
+.btn-sign-in-google{
+    border:0px;
+    padding: 12px 27px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 100px;
+    color: #000000;
+    font-size: 18px;
+    font-family: Lato regular;
+    cursor: pointer;
+}
+
+.btn-sign-in-google img {
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+a {
+    color: #A9C5BA
+}

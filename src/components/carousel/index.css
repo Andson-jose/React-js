@@ -1,0 +1,41 @@
+.img {
+    width: 540px;
+    margin-top: 10vh;
+}
+
+.text {
+    text-align: -webkit-center;
+}
+
+.title {
+    color: var(--cor-text-primary);
+    font: normal normal normal 30px Muli;
+    width: 50%;
+    padding-top: 2%;
+}
+
+.sub-title {
+    color: var(--cor-text-primary);
+    font: normal normal normal 19px Muli;
+    text-align: -webkit-center;
+    width: 50%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.circle {
+    height: 11px;
+    width: 12px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.circle-selected {
+    width: 26px;
+    opacity: 1;
+    border-radius: 50px;
+}
